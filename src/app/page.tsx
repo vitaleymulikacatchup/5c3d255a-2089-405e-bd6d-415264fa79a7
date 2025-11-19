@@ -179,7 +179,7 @@ export default function LandingPage() {
           description="Subscribe to our newsletter for exclusive offers, new menu items, and special events"
           tagIcon={MapPin}
           inputPlaceholder="Enter your email address"
-          buttonText="Subscribe"
+          buttonText="Claim Exclusive Offer"
           termsText="We respect your privacy. Unsubscribe at any time. We never sell your information."
         />
       </div>
